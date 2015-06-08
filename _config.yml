@@ -1,19 +1,19 @@
-title:	"Coconu Oil"
-description:	"Coconut Oil Selling Website"
+title:            Dau Dua
+description:      Sell Coconut Oil
 disqus_shortname: hpstrtheme
-reading_time:	true
-words_per_minute:	200
+reading_time:     true
+words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: "http://localhost:4000"
+url:
 
 # Owner/author information
 owner:
-name: DauDua
-avatar: avatar.jpg
-bio: "Coconut oil contains short term medium-chain saturated fatty acids (MCFAs), which is a "healthy" form saturated fat compared to trans fat."
-email: daudua.asia@gmail.com
-  # Social networking links used in footer. Update and remove as you like.
+  name:           Dau Dua
+  avatar:         avatar.jpg
+  bio:            "Coconut Oil is good !"
+  email:          daudua.asia@gmail.com
+# Social networking links used in footer. Update and remove as you like.
   # twitter:        
   # facebook:       
   # github:         
@@ -22,14 +22,11 @@ email: daudua.asia@gmail.com
   # instagram:      
   # flickr:         
   # tumblr:         
-  # google plus id, include the '+', eg +mmistakes
-  # google_plus:    +yourid
+# google plus id, include the '+', eg +mmistakes
+  google_plus:    +daudua
 
 # Background image to be tiled on all pages
 # background: 
-header: yes
-header_med: images/coconut-oil-banner.jpg
-
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -38,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Ho_Chi_Minh
 future:      true
 highlighter: pygments
 markdown:    kramdown
