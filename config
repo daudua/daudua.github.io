@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	sharedrepository = 1
+[receive]
+	denyNonFastforwards = true
+[remote "origin"]
+	url = ssh://git@github.com/home/tof/devel/tof/daudua.github.io.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
