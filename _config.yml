@@ -52,6 +52,14 @@ permalink:   /:categories/:title/
 # Amount of post to show on home page
 paginate: 5
 
+# Google maps
+mapping:
+    provider: openstreetmap
+    zoom: 16
+    dimensions:
+        width: 600
+        height: 400
+
 kramdown:
   auto_ids: true
   footnote_nr: 1

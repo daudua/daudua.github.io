@@ -12,7 +12,8 @@ modified: 2015-06-16
 ## Dry process
 Traditional way of making coconut oil using an ox-powered mill in Seychelles
 
-Coconut oil can be extracted through "dry" or "wet" processing. Dry processing requires the meat to be extracted from the shell and dried using fire, sunlight, or kilns to create copra. The copra is pressed or dissolved with solvents, producing the coconut oil and a high-protein, high-fiber mash. The mash is of poor quality for human consumption and is instead fed to ruminants; there is no process to extract protein from the mash. A portion of the oil extracted from copra is lost to the process of extraction
+Coconut oil can be extracted through "dry" or "wet" processing. Dry processing requires the meat to be extracted from the shell and dried using fire. sunlight, or kilns to create copra. The copra is pressed or dissolved with solvents, producing the coconut oil and a high-protein, high-fiber mash. The mash is of poor quality for human consumption and is instead fed to ruminants; there is no process to extract protein from the mash. A portion of the oil extracted from copra is lost to the process of extraction
+
 ## Wet process
 
 The all-wet process uses raw coconut rather than dried copra, and the protein in the coconut creates an emulsion of oil and water. The more problematic step is breaking up the emulsion to recover the oil. This used to be done by prolonged boiling, but this produces a discolored oil and is not economical; modern techniques use centrifuges and pre-treatments including cold, heat, acids, salts, enzymes, electrolysis, shock waves, or some combination of them. Despite numerous variations and technologies, wet processing is less viable than dry processing due to a 10–15% lower yield, even compared to the losses due to spoilage and pests with dry processing. Wet processes also require investment of equipment and energy, incurring high capital and operating costs.

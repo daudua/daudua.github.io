@@ -1,0 +1,10 @@
+# +STARTUP: showall indent
+# +STARTUP: hidestars
+#+TITLE: Information on coconut oil
+#+LAYOUT: ./_layouts/post
+#+BEGIN_HTML
+#+END_HTML
+* Coconut oil
+* Prices table
+** Main types of flasks
+* Shipping
