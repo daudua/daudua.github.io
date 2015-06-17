@@ -1,34 +1,46 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: Facts on coconul oil.
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: process.jpg
 comments: false
-modified: 2014-12-24
+modified: 2015-06-16
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+# Production
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+## Dry process
+Traditional way of making coconut oil using an ox-powered mill in Seychelles
 
-## What HPSTR brings to the table:
+Coconut oil can be extracted through "dry" or "wet" processing. Dry processing requires the meat to be extracted from the shell and dried using fire, sunlight, or kilns to create copra. The copra is pressed or dissolved with solvents, producing the coconut oil and a high-protein, high-fiber mash. The mash is of poor quality for human consumption and is instead fed to ruminants; there is no process to extract protein from the mash. A portion of the oil extracted from copra is lost to the process of extraction
+## Wet process
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+The all-wet process uses raw coconut rather than dried copra, and the protein in the coconut creates an emulsion of oil and water. The more problematic step is breaking up the emulsion to recover the oil. This used to be done by prolonged boiling, but this produces a discolored oil and is not economical; modern techniques use centrifuges and pre-treatments including cold, heat, acids, salts, enzymes, electrolysis, shock waves, or some combination of them. Despite numerous variations and technologies, wet processing is less viable than dry processing due to a 10–15% lower yield, even compared to the losses due to spoilage and pests with dry processing. Wet processes also require investment of equipment and energy, incurring high capital and operating costs.
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+Proper harvesting of the coconut (the age of a coconut can be 2 to 20 months when picked) makes a significant difference in the efficacy of the oil-making process. Copra made from immature nuts is more difficult to work with and produces an inferior product with lower yields.
 
-[^1]: Example: *domain.com/category-name/post-title*
+Conventional coconut oil uses hexane as a solvent to extract up to 10% more oil than just using rotary mills and expellers. The oil is then refined to remove certain free fatty acids, in order to reduce susceptibility to rancidification. Other processes to increase shelf life include using copra with a moisture content below 6%, keeping the moisture content of the oil below 0.2%, heating the oil to 130–150 °C (266–302 °F) and adding salt or citric acid.
+
+Virgin coconut oil (VCO) can be produced from fresh coconut milk, meat, or residue. Producing it from the fresh meat involves removing the shell and washing, then either wet-milling or drying the residue, and using a screw press to extract the oil. VCO can also be extracted from fresh meat by grating and drying it to a moisture content of 10–12%, then using a manual press to extract the oil. Producing it from coconut milk involves grating the coconut and mixing it with water, then squeezing out the oil. The milk can also be fermented for 36–48 hours, the oil removed, and the cream heated to remove any remaining oil. A third option involves using a centrifuge to separate the oil from the other liquids. Coconut oil can also be extracted from the dry residue left over from the production of coconut milk.
+
+A thousand mature coconuts weighing approximately 1,440 kilograms (3,170 lb) yield around 170 kilograms (370 lb) of copra from which around 70 litres (15 imp gal) of coconut oil can be extracted.
+RBD
+Coconuts drying outdoors in Kozhikode, Kerala for making copra, which is used for making coconut oil
+
+RBD stands for "refined, bleached, and deodorized." RBD oil is usually made from copra (dried coconut kernel).
+
+The dried copra is placed in a hydraulic press with added heat and the oil is extracted. This yields up practically all the oil present, amounting to more than 60% of the dry weight of the coconut.
+
+This "crude" coconut oil is not suitable for consumption because it contains contaminants and must be refined with further heating and filtering.
+
+Another method for extraction of a "high-quality" coconut oil involves the enzymatic action of alpha-amylase, polygalacturonases, and proteases on diluted coconut paste.
+
+Unlike virgin coconut oil, refined coconut oil has no coconut taste or aroma. RBD oil is used for home cooking, commercial food processing, and cosmetic, industrial, and pharmaceutical purposes.
+Hydrogenation
+
+RBD coconut oil can be processed further into partially or fully hydrogenated oil to increase its melting point. Since virgin and RBD coconut oils melt at 24 °C (76 °F), foods containing coconut oil tend to melt in warm climates. A higher melting point is desirable in these warm climates, so the oil is hydrogenated. The melting point of hydrogenated coconut oil is 36–40 °C (97–104 °F).
+
+In the process of hydrogenation, unsaturated fats (monounsaturated and polyunsaturated fatty acids) are combined with hydrogen in a catalytic process to make them more saturated. Coconut oil contains only 6% monounsaturated and 2% polyunsaturated fatty acids. In the partial hydrogenation process, some of these are transformed into trans fatty acids.
+Fractionation
+
+Fractionated coconut oil provides fractions of the whole oil so that its different fatty acids can be separated for specific uses. Lauric acid, a 12-carbon chain fatty acid, is often removed because of its high value for industrial and medical purposes. The fractionation of coconut oil can also be used to isolate caprylic acid and capric acid, which are medium-chain triglycerides, as these are used for medical applications, special diets and cosmetics, sometimes also being used as a carrier oil for fragrances.
