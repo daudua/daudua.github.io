@@ -53,12 +53,12 @@ permalink:   /:categories/:title/
 paginate: 5
 
 # Google maps
-mapping:
-    provider: openstreetmap
-    zoom: 16
-    dimensions:
-        width: 600
-        height: 400
+# mapping:
+#     provider: openstreetmap
+#     zoom: 16
+#     dimensions:
+#         width: 600
+#         height: 400
 
 kramdown:
   auto_ids: true
